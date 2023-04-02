@@ -20,3 +20,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrzeskoByte)
 
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GrzeskoByte)
+
+![Activity](https://img.shields.io/github/commit-activity/m/yourgithubusername/yourrepository?style=flat-square)
