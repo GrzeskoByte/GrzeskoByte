@@ -1,14 +1,7 @@
-### Hi there, I'm [Your Name](https://yourwebsite.com) 👋
+### Hi there, I'm Grzegorz
 
-[![Website](https://img.shields.io/badge/website-yourwebsite.com-blue?style=flat-square&logo=firefox-browser)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-yourlinkedinprofile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourlinkedinprofile)
-[![GitHub](https://img.shields.io/badge/github-yourgithubprofile-blue?style=flat-square&logo=github)](https://github.com/yourgithubprofile)
+[![LinkedIn](https://www.linkedin.com/in/grzegorz-sierocki-235012202/)
 
-## I'm a Full-Stack Developer!
-
-- 🌱 I’m currently learning new technologies.
-- 💬 Ask me about anything tech related.
-- 📫 How to reach me: your.email@example.com
 
 ### Technologies & Tools:
 
@@ -25,4 +18,5 @@
 
 ### GitHub Stats:
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrzeskoByte)
+
